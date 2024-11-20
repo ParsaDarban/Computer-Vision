@@ -4,4 +4,4 @@ As we know, medical image processing is one of the most important tasks in compu
 
 There is a technique called augmentation used in learning methods to prepare images for feature extraction. However, as mentioned, we will focus solely on analyzing a few MRI images.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/86a75733-35b3-4689-82c3-5dccca02dc58)
