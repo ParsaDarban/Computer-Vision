@@ -1,0 +1,1 @@
+In this CA, we will cover an introduction to basic image concepts such as color, histograms, and more. After that, we will analyze the similarity between an image and other images taken from different angles but with the same content. We will also explore various algorithms to address this topic (template matching).
